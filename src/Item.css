@@ -1,0 +1,27 @@
+.list__item {
+    min-width: 300px;
+    min-height: 40px;
+}
+
+.item__input {
+   
+    border-radius: 10px;
+    border: 1px solid #0B63F6;
+    min-width: 300px;
+    min-height: 25px;
+    background-color: #f0f8ff;
+}
+
+.item__input--done {
+    background-color: #d3f9d8;
+    border: none;
+
+  }
+
+.item--done {
+    display: flex;
+    align-items: center;
+    background-color: #d3f9d8; 
+    border-radius: 10px;
+    border: 1px solid #0B63F6;
+  }
