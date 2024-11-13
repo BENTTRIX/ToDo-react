@@ -11,5 +11,5 @@
 2. Запустить приложение:
 
     ```bash
-    npm run dev
+    npm run start
     ```
